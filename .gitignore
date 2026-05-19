@@ -1,0 +1,31 @@
+# Credenciales y configuración local
+.env
+*.env
+.env.local
+
+# Paquete de despliegue de Lambda
+lambda_deployment.zip
+package/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+backup.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
