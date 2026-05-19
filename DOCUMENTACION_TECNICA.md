@@ -238,4 +238,4 @@ Para futuras iteraciones (no implementadas):
 
 Sistema desplegado por David Meléndez Pérez durante las prácticas de ASIR en 2Leap (mayo 2026).
 
-Repositorio con el código fuente: *(añadir aquí URL del repo si se publica)*
+Repositorio con el código fuente: https://github.com/DeamnZ/lemlist-backup-aws
